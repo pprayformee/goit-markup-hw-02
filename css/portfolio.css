@@ -1,0 +1,25 @@
+:root {
+    --primary-color: #212121;
+    --secondary-color: #757575;
+    --acent-color: #2196F3;
+    --white-color: #FFFFFF;
+    --black-color: #000000;
+    --main-font: 'Roboto', sans-serif;
+    --secondary-font: 'Raleway', sans-serif;
+    --title-size: 36px;
+    --text-size: 14px;
+}
+
+ul {
+    list-style: none;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.body {
+    color: var(--primary-color);
+    font-family: var(--main-font);
+    font-size: var(--text-size);
+}
