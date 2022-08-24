@@ -1,11 +1,17 @@
 :root {
+    /* text colors */
     --primary-color: #212121;
     --secondary-color: #757575;
     --acent-color: #2196F3;
-    --white-color: #FFFFFF;
     --black-color: #000000;
+    /* background colors */
+    --white-color: #FFFFFF;
+    --header-footer-color: #2F303A;
+    --gray-color: #F5F4FA;
+    /* fonts */
     --main-font: 'Roboto', sans-serif;
     --secondary-font: 'Raleway', sans-serif;
+    /* sizes */
     --title-size: 36px;
     --text-size: 14px;
 }

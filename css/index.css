@@ -1,13 +1,17 @@
 :root {
+    /* text colors */
     --primary-color: #212121;
     --secondary-color: #757575;
     --acent-color: #2196F3;
+    --black-color: #000000;
+    /* background colors */
     --white-color: #FFFFFF;
     --header-footer-color: #2F303A;
-    --black-color: #000000;
     --gray-color: #F5F4FA;
+    /* fonts */
     --main-font: 'Roboto', sans-serif;
     --secondary-font: 'Raleway', sans-serif;
+    /* sizes */
     --title-size: 36px;
     --text-size: 14px;
 }
@@ -20,9 +24,23 @@ ul {
     box-sizing: border-box;
 }
 
-.body {
+.page {
     color: var(--secondary-color);
     font-family: var(--main-font);
     font-size: var(--text-size);
 }
+
+.header {}
+
+.main-nav {}
+
+.logo {}
+
+.web {}
+
+.list {}
+
+.list-item {}
+
+.link {}
 
