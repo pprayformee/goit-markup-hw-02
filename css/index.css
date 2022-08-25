@@ -34,13 +34,45 @@ ul {
 
 .main-nav {}
 
-.logo {}
+.logo {
+    color: var(--black-color);
+    font-family: var(--secondary-font);
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.19;
+    text-decoration: none;
+}
 
-.web {}
+.web {
+    color: var(--acent-color);
+}
 
 .list {}
 
 .list-item {}
 
-.link {}
+.link {
+    text-decoration: none;
+}
+
+.studio{}
+
+.portfolio {}
+
+.contacts {}
+
+.list1 {}
+
+.list-item1 {}
+
+.mail {}
+
+.phone {}
+
+.section-1 {}
+
+.text-1 {}
+
+.button {}
+
 
