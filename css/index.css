@@ -80,6 +80,7 @@ ul {
     font-weight: 500;
     font-size: var(--text-size);
     line-height: 1.14;
+    text-decoration: none;
 }
 
 .mail:hover,
@@ -92,6 +93,7 @@ ul {
     font-weight: 500;
     font-size: var(--text-size);
     line-height: 1.14;
+    text-decoration: none;
 }
 
 .section-1 {
@@ -113,6 +115,7 @@ ul {
     color: var(--white-color);
     font-weight: 700;
     font-size: 16px;
+    font-family: inherit;
     line-height: 1.87;
     cursor: pointer;
 }
@@ -124,6 +127,10 @@ ul {
 
 .title {
     color: var(--primary-color);
+    font-size: var(--text-size);
+    line-height: 16px;
+    letter-spacing: 0.03em;
+
 }
 
 .title-section-2 {
@@ -168,6 +175,7 @@ ul {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.18;
+    letter-spacing: 0.03em;
 }
 
 .text-3 {
